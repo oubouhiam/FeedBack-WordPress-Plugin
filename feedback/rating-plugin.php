@@ -1,5 +1,12 @@
 <?php
 
+/**
+ * Plugin Name: Rating Cars
+ * Description: Plugin Brief 
+ * Author: Mohamed OUBOUHIA
+ * Textdomain: Rating rental cars
+ */
+
 if( ! defined( 'ABSPATH' ) ) {
 	return;
 } 
